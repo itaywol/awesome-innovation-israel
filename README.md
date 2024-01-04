@@ -20,8 +20,15 @@ List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thi
 
 ---
 
+# Why?
+
+Sometimes we need to be inspired by others to innovate, and sometimes we need to inspire others to innovate. This list is for both.
+
+Most of the occasions you aren't alone in your boat, and someone else already had the same idea as you, or even better, already implemented it. This list is for you to find those people and their projects.
+
 # Table of Contents
 
+- [Why?](#why)
 - [Table of Contents](#table-of-contents)
 - [We cover the following topics](#we-cover-the-following-topics)
 - [Solutions](#solutions)
