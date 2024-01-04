@@ -8,7 +8,7 @@
 
 תמיד נדבר עברית אך ננהל פה את הדברים באנגלית!
 
-A curated list driven by you! of awesome innovative Israeli innovations and ideas for innovation in Israel.
+A curated list driven by you! of awesome innovative Israeli innovations, and ideas for innovation in Israel.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
