@@ -20,7 +20,15 @@ List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thi
 
 ---
 
-# We currently tracking over the following domains
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [We cover the following topics](#we-cover-the-following-topics)
+- [Solutions](#solutions)
+- [In Progress](#in-progress)
+- [Ideas](#ideas)
+
+# We cover the following topics
 
 - Agriculture
 - Artificial-Intelligence
@@ -48,14 +56,6 @@ List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thi
 - Retail
 - Robotics
 - Transportation
-
-# Table of Contents
-
-- [We currently tracking over the following domains](#we-currently-tracking-over-the-following-domains)
-- [Table of Contents](#table-of-contents)
-- [Solutions](#solutions)
-- [In Progress](#in-progress)
-- [Ideas](#ideas)
 
 # Solutions
 
